@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { UserAuth } from "../backend/userAuth"
+import { UserAuth } from "../utils/AuthContext"
 import { useNavigate } from "react-router-dom"
 import { FaSpinner } from "react-icons/fa"
 
